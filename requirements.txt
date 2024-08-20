@@ -7,7 +7,7 @@ jiwer==3.0.3
 joblib==1.4.0
 loguru==0.7.2
 pandas==2.2.2
-nltk==3.8.1
+nltk==3.9
 optuna==3.6.1
 Pillow==10.3.0
 protobuf==4.23.4
